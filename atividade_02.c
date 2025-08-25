@@ -3,8 +3,8 @@
 int verificarNumero(int numero_01, int numero_02)
   {
   int soma;
-    soma = numero_01 + numero_02;
-    return(soma);
+  soma = numero_01 + numero_02;
+  return(soma);
   }
 
 int main()
